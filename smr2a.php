@@ -25,7 +25,7 @@ if(isset($_GET['correo'])){
 <form>
 	<p>
 		Correo electronico: <input type="email" name="correo">
-	</p>
+	</p
 	<button>Enviar la informacion</button>
 </form>
 
@@ -33,3 +33,15 @@ if(isset($_GET['correo'])){
 <a href="catalogo.php">Listado compañeros</a>
 	
 </html>	
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+</html>
