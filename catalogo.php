@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -28,7 +28,7 @@ div {
 		</style>
 	<head>
 	<body>
-	
+	    <div class="header">
 		<div><h1>LISTA DE ENLACES A PERFILES GITHUB</h1><div>
 	<a href="https://github.com/dblancoformacion" target="_blank">Profesor David</a>
 	<a href="https://github.com/Alberto-cloud" target="_blank">Alberto</a>

@@ -1,9 +1,9 @@
 
-
-
+<center>Gabriel<center>
 <a href="http://192.168.0.108/smr2a-VCR/smr2a.php">Victor Cabo</a>
-Gabriel
+
 <a href="http://192.168.0.111/smr2A_Jose/smr2a.php">Jeso</a>
+
 <?php
 $f=fopen('visitas.txt','a');
 fwrite($f,date('Y-m-d H:i:s '));
@@ -19,22 +19,22 @@ if(isset($_GET['correo'])){
 }
 ?>
 
+
 <html>
 <body>
 <h1>FORMULARIO</h1>
-<form>
-	<p>
-		Correo electronico: <input type="email" name="correo">
-	</p
-	<button>Enviar la informacion</button>
-</form>
-
+<html>
+	<body>
+	<form>
+	<center>Correo electronico:<center>
+	<center><input type="email" name="correo"><br><center>
+	<center><button>Enviar</button><center>
+	</form>
+	</body>
 </html>
 <a href="catalogo.php">Listado compañeros</a>
-	
 </html>	
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -45,3 +45,10 @@ body {
 </head>
 <body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
